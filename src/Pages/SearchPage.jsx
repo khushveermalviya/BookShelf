@@ -1,4 +1,4 @@
-// src/pages/SearchPage.jsx
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import BookCard from '../Component/BookCard.jsx';

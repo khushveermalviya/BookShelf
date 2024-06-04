@@ -1,4 +1,4 @@
-// src/components/BookCard.jsx
+
 import React from 'react';
 
 const BookCard = ({ book, onAdd }) => {

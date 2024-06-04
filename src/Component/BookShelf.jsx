@@ -1,4 +1,3 @@
-// src/components/Bookshelf.jsx
 
 
 const BookShelf = ({ books }) => {
